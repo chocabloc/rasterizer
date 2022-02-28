@@ -1,0 +1,6 @@
+*.o
+*.out
+test
+3demo
+.vscode
+.idea
